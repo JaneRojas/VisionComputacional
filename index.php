@@ -87,7 +87,7 @@
 
     ?>
             </div>
-        </div>x
+        </div>
     </section>
 
     <style>
